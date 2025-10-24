@@ -1,0 +1,5 @@
+data/
+outputs/
+models/
+*.mp4
+*.pt
